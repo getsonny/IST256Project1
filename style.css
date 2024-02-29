@@ -1,0 +1,58 @@
+h1
+{
+    color: darkgreen;
+    margin: 6px;
+}
+
+.top_horizontal_banner > img
+{
+    width: 100%;
+    height: 60px;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: lightgray;
+    bottom: 0;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: darkslategrey;
+    text-align: center;
+    padding: 14px;
+}
+
+.vertical_side_bar
+{
+    display: block;
+    float: left;
+    padding: 13px 13px 100%;
+    margin: 0px 12px 0px 0px;
+    height: auto;
+    background-color: dimgrey;
+}
+
+photo.content
+{
+   float: left;
+}
+
+.content
+{
+    margin: 12px;
+}
+
+footer
+{
+    display: block;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background-color: rgb(40,40,40);
+    color: ghostwhite;
+    text-align: center;
+    padding: 10px 0;
+}
